@@ -7,3 +7,5 @@
 [![Build Status](https://api.cirrus-ci.com/github/Hao-Phys/KondoSC.jl.svg)](https://cirrus-ci.com/github/Hao-Phys/KondoSC.jl)
 [![Coverage](https://codecov.io/gh/Hao-Phys/KondoSC.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/Hao-Phys/KondoSC.jl)
 [![Coverage](https://coveralls.io/repos/github/Hao-Phys/KondoSC.jl/badge.svg?branch=main)](https://coveralls.io/github/Hao-Phys/KondoSC.jl?branch=main)
+
+KondoSC solves the mean-field equations of a Kondo-Kitaev Hamiltonian on the honeycomb lattice (see docs/notes.lyx) self-consistently.

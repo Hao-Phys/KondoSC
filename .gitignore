@@ -1,5 +1,9 @@
-*.jl.*.cov
-*.jl.cov
-*.jl.mem
-/Manifest.toml
-/docs/build/
+build/
+backup/
+examples/results/
+docs/src/examples/
+Manifest.toml
+profile.pb.gz
+.DS_Store
+*.lyx~
+*.lyx#
