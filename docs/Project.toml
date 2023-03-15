@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+KondoSC = "d4509ca9-d502-4e75-ab17-cad5d686a091"
